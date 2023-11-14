@@ -1,10 +1,1 @@
-*cache*
 venv/
-.DS_Store
-.ipynb_checkpoints/
-test_trainer/
-flagged/
-
-# USELESS DATA
-zindi_challenge/data/train_subset.csv
-zindi_challenge/data/eval_subset.csv
